@@ -1,0 +1,14 @@
+accelerate
+click
+diffusers
+numpy
+Pillow
+pytorch_lightning
+PyYAML
+requests
+setuptools
+torch
+tqdm
+text2image-benchmark @ git+https://github.com/boomb0om/text2image-benchmark
+clip @ git+https://github.com/openai/CLIP.git
+hpsv2
