@@ -39,3 +39,18 @@ CUDA_VISIBLE_DEVICES=0 bash inference_sd35_lookback_cub200.sh
 ```
 
 We also provide the code of two baselines: [AFloPS](AFloPS) and [Self-Guidance](Self-Guidance).
+
+---
+
+## Citation
+
+If you find this repository useful, please cite:
+
+```bibtex
+@article{luo2026look,
+  title={Look-Ahead and Look-Back Flows: Training-Free Image Generation with Trajectory Smoothing},
+  author={Luo, Yan and Huang, Henry and Zhou, Todd Y and Wang, Mengyu},
+  journal={arXiv preprint arXiv:2602.09449},
+  year={2026}
+}
+```
